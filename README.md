@@ -1,1 +1,1 @@
-# Coffe-House
+# Coffee-House
